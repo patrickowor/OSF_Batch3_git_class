@@ -1,0 +1,2 @@
+this is the first osf class it is about initializing,
+staging, commiting and reverting a git commit using the git command line
