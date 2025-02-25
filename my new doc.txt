@@ -1,2 +1,13 @@
 this is the first osf class it is about initializing,
 staging, commiting and reverting a git commit using the git command line
+
+we init a folder by doing 
+git init
+
+we stage files by doing
+git add <file name>
+or 
+git add --all
+
+we commit by doing 
+git commit -m "our commmit message"
